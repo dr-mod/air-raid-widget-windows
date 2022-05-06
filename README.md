@@ -11,6 +11,6 @@ This widget shows the current status of air raid sirens in Ukraine. The data is 
 ## Installation
 The widget is built on the Rainmeter platform.
 1. Download and install [Rainmeter](https://www.rainmeter.net/) a desktop customization tool.
-2. Download the latest Air Raid Widget from the [release section](https://github.com/dr-mod/air-raid-widget-windows/releases) from the assets *.rmskin 
+2. Download the latest Air Raid Widget from the [release section](https://github.com/dr-mod/air-raid-widget-windows/releases) in the assets *.rmskin 
 3. If you have Rainmeter installed you could import the widget from its menu or simply by double-clicking on the widget file.
 
